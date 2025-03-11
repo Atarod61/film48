@@ -1,6 +1,6 @@
 package user
 
-type User struct {
+type User2 struct {
 	ID       int
 	Name     string
 	LastName string
